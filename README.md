@@ -12,7 +12,7 @@
 - 👀 I’m interested in **Java development** and integrating technologies like **C** and **databases**.  
 - 🌱 I’m currently mastering **Java 10** and exploring **Spring Boot** and **Microservices**.  
 - 💞️ I’m looking to collaborate on impactful projects in **quality assurance** and **automation**.  
-- 📫 How to reach me: [Your Email or Social Media]  
+- 📫 How to reach me: alexandremaciell64@gmail.com 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m a huge **anime fan** (*Fullmetal Alchemist*, *One Piece*) and love movies like *Star Wars* and *The Lord of the Rings*.
 
